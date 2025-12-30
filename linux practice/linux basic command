@@ -1,1 +1,39 @@
+                                                    Linux Basic Command
+
+
+=>For root
+$sudo
+=>For Update 
+$ sudu apt update
+=>For stop any command 
+$ control+c
+=>To check Password 
+$ su
+=>For Clear screen
+$ clear
+=>To update system 
+$ sudo upgrade
+=>To check IP of kali linux
+$ ifconfig
+=>To check version of any pkg
+e.g   $ nmap  --version
+=>To check port is active or not 
+$ netstate  --tulnp
+=>To change directory or move to folder 
+$ cd /apt
+=>To move back from a folder
+$ cd ..
+
+=>To see folders inside kali linux
+$ ls
+=>To check main user or folder
+$ whoami
+=>To check detail of system
+$ uname  -a
+=>To remove file
+$ nano file name
+
+
+
+
 
