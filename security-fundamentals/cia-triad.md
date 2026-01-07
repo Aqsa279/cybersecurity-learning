@@ -7,6 +7,7 @@ CIA ka matlab hai:
 - Confidentiality
 - Integrity
 - Availability
+- Yehi CIA Triad ke 3 pillars hain jo cybersecurity ki foundation banate hain.
 
 ## 1. Confidentiality/privacy
 
