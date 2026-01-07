@@ -8,7 +8,7 @@ CIA ka matlab hai:
 - Integrity
 - Availability
 
-## 1. Confidentiality
+## 1. Confidentiality/privacy
 
 Confidentiality ka matlab hai ke data sirf authorized log hi access kar saken.
 
@@ -20,7 +20,7 @@ Examples:
 Real-life example:
 Bank account details sirf account holder hi dekh sakta hai.
 
-## 2. Integrity
+## 2. Integrity/orignality
 
 Integrity ka matlab hai ke data change na ho jab tak authorized person na kare.
 
