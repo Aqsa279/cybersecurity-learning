@@ -1,1 +1,20 @@
 
+# Wireshark
+
+Wireshark is a network packet analyzer used to capture and analyze
+network traffic in real time.
+
+## Purpose
+- To understand how data flows across a network
+- To analyze packets such as TCP, UDP, DNS, and HTTP
+- To identify source and destination IP addresses
+
+## How It Works
+Wireshark captures live network traffic from a selected interface
+and displays the data in the form of packets for detailed analysis.
+
+## Tool Used
+- Wireshark
+
+## Evidence
+Screenshots of my Wireshark practice are available in the screenshots folder.
